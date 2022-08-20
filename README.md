@@ -17,4 +17,4 @@ bash
     
 ## Support
 
-For support, email anchalksai@gmail.com or join our Telegram channel Binary Tech Consultancy.
+For support, email anchalksai@gmail.com.
